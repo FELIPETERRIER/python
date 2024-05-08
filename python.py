@@ -60,9 +60,3 @@ for linha in tabela.index:
     pyautogui.scroll(5000)
    
 
-
-
-
-
-
-
